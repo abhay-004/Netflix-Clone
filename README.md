@@ -1,19 +1,29 @@
 # 🎬 Netflix Clone
 
-A responsive **Netflix landing page clone** built with **HTML** and **CSS**. This project replicates the visual design of Netflix’s homepage, perfect for practicing front-end layout and styling skills.
+A front-end **Netflix Clone** built using **HTML** and **CSS**. This project replicates the UI of the Netflix landing page to practice layout, responsiveness, and styling with CSS.
 
-## 🔧 Technologies
+## 🌐 Live Demo
 
-- HTML5  
-- CSS3  
-- Flexbox & Grid  
-- Media Queries (for responsiveness)
+👉 [View Live Demo](https://abhay-004.github.io/Netflix-Clone/)  
 
-## 📌 Features
+---
 
-- Clean, modern Netflix-inspired UI  
-- Fully responsive layout  
-- Mobile-friendly design  
-- Organized and readable code
+## 🚀 Features
 
+- 🔥 Netflix-like landing page
+- 💡 Responsive design for different screen sizes
+- 🎨 Clean and modern UI using only HTML & CSS
+- 🌐 Custom background with gradient overlays
+- 📱 Mobile-friendly layout
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- Google Fonts (for typography)
+- Font Awesome (optional: for icons)
+
+---
 
