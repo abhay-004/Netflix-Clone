@@ -4,7 +4,7 @@ A front-end **Netflix Clone** built using **HTML** and **CSS**. This project rep
 
 ## 🌐 Live Demo
 
-👉 [View Live Demo](https://abhay-004.github.io/Netflix-Clone/)  
+👉 [View Live Demo](https://resonant-travesseiro-ba0a39.netlify.app/)  
 
 ---
 
